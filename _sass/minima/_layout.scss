@@ -10,19 +10,20 @@
   position: relative;
 }
 
-.site-title {
-  @include relative-font-size(1.625);
-  font-weight: 300;
-  line-height: $base-line-height * $base-font-size * 2.25;
-  letter-spacing: -1px;
-  margin-bottom: 0;
+.site-title,
+.site-title:visited,
+.site-title:hover,
+.site-title:active {
+  @include relative-font-size(1.55);
+  font-weight: 600;
+  line-height: 1.3;
+  letter-spacing: -0.2px;
+  margin: 1.2rem 0;
   float: left;
-
-  &,
-  &:visited {
-    color: $grey-color-dark;
-  }
+  color: $text-color;
+  text-decoration: none;
 }
+
 
 .site-nav {
   float: right;
@@ -199,9 +200,11 @@
 
 
 .post-meta {
-  font-size: $small-font-size;
-  color: $grey-color;
+  font-size: 0.75rem;
+  color: #999;
+  margin-bottom: 0.2rem;
 }
+
 
 .post-link,
 .post-link:visited {
@@ -264,9 +267,10 @@
   }
 }
 
-.post-list li {
-  position: relative;
+.post-list > li {
+  margin-bottom: $spacing-unit * 2.4;
 }
+
 
 .post-list li p {
   max-height: 6.5em; /* ~4 líneas */
@@ -289,21 +293,18 @@
 }
 
 .read-more {
-  display: inline-block;
-  margin-top: 0.8rem;
-  padding: 0.35em 0.75em;
-  font-size: 0.8rem;
-  background-color: #000;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 3px;
-  letter-spacing: 0.03em;
+  background-color: #111;
+  font-size: 0.75rem;
+  padding: 0.3em 0.65em;
+  opacity: 0.9;
 }
+
+.read-more:hover {
+  opacity: 1;
+}
+
 
 .read-more:visited {
   color: #fff;
 }
 
-.read-more:hover {
-  background-color: #222;
-}
