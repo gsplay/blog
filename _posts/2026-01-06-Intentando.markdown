@@ -14,4 +14,10 @@ Muchas cosas dejaron de ser pilares para ser obviedades y otras que siendo banal
 
 No estoy diciendo que esté mal. De hecho está muy mal pero quién soy yo para evaluar semejante bajeza involutiva. 
 
-Este blog nace de la necesidad de crear un espacio en donde dejar mis pensamientos y mi obsesión por escribir para convertirse en mi bitácora semántica de sobrepensamientos que, guiados por la libido, no se van. 
+Este blog nace de la necesidad de crear un espacio en donde dejar mis pensamientos y mi obsesión por escribir para convertirse en mi bitácora semántica de sobrepensamientos líbicos.
+No voy a dejar buenos deseos en primer post. Eso ya pasó de moda. 
+la onda es “esto es mío y si alguien lo lee está bien”
+
+Si lo que encontras acá te resulta interesante, gracioso o un embole es tu problema y tu reflejo. 
+
+Gracias por leer esto. No estamos leyendo 🫶🏼🤙🏽
