@@ -1,0 +1,83 @@
+========================================
+MARKDOWN BÁSICO PARA JEKYLL — CHULETARIO
+========================================
+
+-------------------------
+FRONT MATTER (OBLIGATORIO)
+-------------------------
+---
+layout: post
+title: "Título del post"
+date: YYYY-MM-DD
+categories: [blog]
+excerpt: "Texto breve opcional"
+image: /assets/img/imagen.jpg
+---
+
+-------------------------
+ENCABEZADOS
+-------------------------
+# Título (H1 – evitar en contenido)
+## Subtítulo (H2)
+### Sección (H3)
+#### Sub-sección (H4)
+
+-------------------------
+TEXTO
+-------------------------
+**Negrita**
+*Cursiva*
+***Negrita + cursiva***
+~~Tachado~~
+
+Párrafo normal.
+
+Salto de línea forzado  
+(con dos espacios al final)
+
+-------------------------
+LISTAS
+-------------------------
+- Ítem
+- Ítem
+  - Sub ítem
+
+1. Primero
+2. Segundo
+3. Tercero
+
+-------------------------
+LINKS
+-------------------------
+[Texto del link](https://ejemplo.com)
+[Texto](https://ejemplo.com "Título opcional")
+
+-------------------------
+IMÁGENES
+-------------------------
+Imagen local (recomendado):
+![Texto alternativo](/assets/img/imagen.jpg)
+
+Imagen externa:
+![Texto](https://sitio.com/imagen.jpg)
+
+-------------------------
+CITAS
+-------------------------
+> Esto es una cita
+> que puede ocupar varias líneas
+
+-------------------------
+SEPARADOR
+-------------------------
+---
+
+-------------------------
+CÓDIGO
+-------------------------
+Inline: `git push`
+
+Bloque:
+```bash
+git status
+git push origin main
