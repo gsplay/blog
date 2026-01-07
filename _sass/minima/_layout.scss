@@ -196,7 +196,7 @@ _sass/minima/_layout.scss
   list-style: none;
 
   > li {
-    margin-bottom: 0;
+    margin-bottom: $spacing-unit * 2;
   }
 }
 
@@ -270,7 +270,7 @@ _sass/minima/_layout.scss
 }
 
 .post-list > li {
-  margin-bottom: $spacing-unit * 2.4;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
 }
 
 
