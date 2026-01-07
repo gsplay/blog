@@ -217,11 +217,6 @@
 .post-link:hover {
   text-decoration: underline;
 }
-.post-link {
-  line-height: 1.2;
-  margin-bottom: 0.4rem;
-}
-
 
 
 
@@ -273,11 +268,8 @@
 }
 
 .post-list > li {
-  margin-bottom: $spacing-unit * 3;
-  padding-bottom: $spacing-unit * 3;
-  border-bottom: 1px solid rgba(0,0,0,0.06);
+  margin-bottom: $spacing-unit * 2.4;
 }
-
 
 
 .post-list li p {
