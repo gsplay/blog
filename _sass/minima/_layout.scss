@@ -1,5 +1,3 @@
-_sass/minima/_layout.scss
-
 /**
  * Site header
  */
@@ -219,6 +217,11 @@ _sass/minima/_layout.scss
 .post-link:hover {
   text-decoration: underline;
 }
+.post-link {
+  line-height: 1.2;
+  margin-bottom: 0.4rem;
+}
+
 
 
 
@@ -270,8 +273,11 @@ _sass/minima/_layout.scss
 }
 
 .post-list > li {
-  margin-bottom: $spacing-unit * 2.4;
+  margin-bottom: $spacing-unit * 3;
+  padding-bottom: $spacing-unit * 3;
+  border-bottom: 1px solid rgba(0,0,0,0.06);
 }
+
 
 
 .post-list li p {
@@ -309,3 +315,4 @@ _sass/minima/_layout.scss
 .read-more:visited {
   color: #fff;
 }
+
