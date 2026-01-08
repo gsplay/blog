@@ -22,6 +22,14 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ===== Ritmo editorial ===== */
 
+.post-link {
+  font-size: clamp(1.5rem, 3vw, 1.875rem);
+  font-weight: 600; // opcional
+}
+
+.post-title {
+  font-weight: 600;
+}
 .post-content {
   max-width: 660px;
 }
@@ -30,8 +38,37 @@ p {
   margin-bottom: 1.4em;
 }
 
+.read-more {
+  background: none;
+  padding: 0;
+  border: none;
+  font-size: 0.95rem;
+  color: #555;
+}
+
+.read-more::before {
+  content: "— ";
+}
+
+.read-more:visited{
+  color: #111;
+}
+
+/* ===== HEader ===== */
+
+.site-header {
+  margin-bottom: 2rem;
+}
+
+
 /* ===== Footer ===== */
 .site-footer {
-font-size: 14px;
+font-size: 0.85rem;
   color: #0a0a0a;
+  opacity: 0.8;
   }
+
+/* ===== paginas en menu ===== */
+.page-link {
+	font-size: 15px;
+}
