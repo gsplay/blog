@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pink Floyd y yo!"
-date: 2026-01-08 03:10:00 -0300
+date: 2026-01-08 03:05:00 -0300
 categories: blog
 ---
 
