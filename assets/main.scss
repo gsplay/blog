@@ -3,3 +3,29 @@
 ---
 
 @import "minima";
+
+/* ===== Tipografía editorial ===== */
+
+body {
+  font-family: "Libre Baskerville", Georgia, serif;
+  font-size: 18px;
+  line-height: 1.75;
+  font-weight: 400;
+  color: #222;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Inter", system-ui, sans-serif;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+}
+
+/* ===== Ritmo editorial ===== */
+
+.post-content {
+  max-width: 660px;
+}
+
+p {
+  margin-bottom: 1.4em;
+}
