@@ -9,7 +9,7 @@ Conforme pasa el tiempo, para algunas personas sucede una especie de iluminació
 
 Nuestra condición se persigna constantemente ante usos y costumbres heredadas de nuestra familia, la sociedad y la humanidad. Comprendemos lo bueno y lo malo. Lo que se debe y lo que no. Servimos de ejemplo a alguien, aunque no lo quieras. Vivimos inmersos en culturas que nos anteceden en siglos y que, por más libres que nos creamos, somos simples actores de reparto de una torta que se la reparten los que saben el secreto.
 
-El gran interrogante: ¿cómo hacen los que lo hacen?
+El gran interrogante: ***¿cómo hacen los que lo hacen?***
 
 No sé quiénes despiertan o qué es lo que pasa realmente para que alguien despierte. Tal vez era búsqueda. Tal vez un trauma. Tal vez una revelación.  
 Da igual. Algo se activa y comienza a despertar a otra zona dormida, que despierta a otra sensación que no se sentía y así, si uno no para, termina despierto del todo. Cuerpo y mente.
