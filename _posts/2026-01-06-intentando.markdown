@@ -6,7 +6,7 @@ categories: blog
 ---
 
 
-Nacer, desarrollarnos, morir. Plantar un arbol, tener un hijo, escribir un libro . Tener una familia, ser exitoso económicamente, vivir en paz.
+Nacer, desarrollarnos, morir. Plantar un arbol, tener un hijo, escribir un libro . Tener una familia, ser exitoso económicamente, vivir en paz. Imagino que tú, estimado lector ya fuiste tachando varios de esos items a medida que fue sucediendo tu vida.
 
 Hay objetivos que se fueron desvirtuando a medida que la civilización fue mutando de sociedad a seres individuales viviendo en sociedad. Muchas cosas dejaron de ser pilares para ser obviedades y otras que siendo banalidades formaron nuevas metas modernas con las cuales medirse la pinchila.
 

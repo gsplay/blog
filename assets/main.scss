@@ -62,11 +62,32 @@ p {
 
 /* ===== Post ===== */
 .post-list li {
-	padding-bottom: 1.5rem;
-  	margin-bottom: 1.5rem;
-  	border-bottom: 2px solid rgba(0, 0, 0, 0.14);
-  	border-right: 2px solid #0000004f;
+  position: relative;
+  padding-bottom: 1rem;
+  margin-bottom: 4rem;
+  padding-right: 1.5rem;   /* ← aire respecto a la línea */
 }
+
+
+.post-list li::after {
+  content: "";
+  position: absolute;
+  left: 6.5rem;      /* ajustá esto según “— leer más” */
+  right: 0;
+  bottom: 23px;
+  height: 1px;
+  background: rgba(0,0,0,0.12);
+}
+.post-list li::before {
+  content: "";
+  position: absolute;
+  right: 0;
+  top: 12.2rem;       /* altura donde comienza el título */
+  bottom: 1.5rem;    /* deja aire abajo */
+  width: 1px;
+  background: rgba(0,0,0,0.18);
+}
+
 
 
 /* ===== Footer ===== */
