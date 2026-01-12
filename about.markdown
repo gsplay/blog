@@ -4,15 +4,32 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+### Sobre mi
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Mi nombre es Gabo. Tal vez me recuerden como el autor de varios blogs que fueron quedando en la estratosfera internautica como un simbolo de mensajes para las generaciones venideras. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+### Sobre este blog
+
+Este blog es un despojo de temas que debo sacarme de mi cabeza. Es un instante de friccion entre mi estado basal y mi conciencia trivial.
+La vida es groove y hay que aprender a entenderlo con lo que te toca.
+
+### Sobre esta pagina
+
+No es solo una pagina sobre mi sino sobre todo. No creo que esta pagina deba ser de lo primero que se escriba. Hay un hilo pero no hay un tema. Es solo un blog personal y esto puede corregirse asi como la vida se va corrigiendo sola. 
+	
+	
+	
+<iframe
+  width="560"
+  height="315"
+  src="https://www.youtube.com/embed/LL_iUj-mQfg?si=gNBBV_IxCM0uTMww"
+  title="King Krule live"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen>
+</iframe>
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+
