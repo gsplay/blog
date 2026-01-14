@@ -57,7 +57,9 @@ p {
 /* ===== HEader ===== */
 
 .site-header {
-  margin-bottom: 2rem;
+	border-top: 2px solid rgb(40, 40, 40);
+  	margin-bottom: 2rem;
+  	border-bottom: 1px solid #57575752;
 }
 
 /* ===== Post ===== */
@@ -76,7 +78,7 @@ p {
   right: 0;
   bottom: 23px;
   height: 1px;
-  background: rgba(0,0,0,0.12);
+  background: rgba(0,0,0,0.25);
 }
 .post-list li::before {
   content: "";
@@ -85,7 +87,7 @@ p {
   top: 12.2rem;       /* altura donde comienza el título */
   bottom: 1.5rem;    /* deja aire abajo */
   width: 1px;
-  background: rgba(0,0,0,0.18);
+  background: rgba(0,0,0,0.2);
 }
 
 
