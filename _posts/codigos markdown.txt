@@ -53,6 +53,18 @@ LINKS
 [Texto](https://ejemplo.com "Título opcional")
 
 -------------------------
+VIDEOS
+-------------------------
+
+<div class="video-container">
+  <iframe
+    src="https://www.youtube.com/embed/ID_DEL_VIDEO"
+    allowfullscreen>
+  </iframe>
+</div>
+
+
+-------------------------
 IMÁGENES
 -------------------------
 Imagen local (recomendado):
