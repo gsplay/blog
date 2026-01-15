@@ -10,6 +10,8 @@ Mi nombre es Gabo. Tal vez me recuerden como el autor de varios blogs que fueron
 
 ### Sobre este blog
 
+#### Este es mi blog personal.
+
 Este blog es un despojo de temas que debo sacarme de mi cabeza. Es un instante de friccion entre mi estado basal y mi conciencia trivial.
 La vida es groove y hay que aprender a entenderlo con lo que te toca.
 
