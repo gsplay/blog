@@ -94,10 +94,49 @@ p {
 
 /* ===== Footer ===== */
 .site-footer {
-font-size: 0.85rem;
-  color: #0a0a0a;
-  opacity: 0.8;
-  }
+  margin-top: 6rem;
+  padding: 3rem 0 2.5rem;
+  font-size: 0.85rem;
+  color: rgba(0, 0, 0, 0.5);
+  border-top: 1px solid rgba(87, 87, 87, 0.3215686275);
+}
+
+.footer-inner {
+  text-align: center;
+}
+
+.footer-nav {
+  font-size: 1.2rem;
+  font-family: inter;
+}
+
+.footer-nav a {
+  color: rgba(0, 0, 0, 0.55);
+  text-decoration: none;
+}
+
+.footer-nav a:hover {
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.footer-sep {
+  margin: 0 0.4rem;
+  color: rgba(0, 0, 0, 0.3);
+}
+
+.footer-privacy {
+  margin: 0.4rem 0 0.6rem;
+  font-size: 1rem;
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.footer-signature {
+  margin: 0;
+  font-size: 1.4rem;
+  color: rgba(0, 0, 0, 0.35);
+}
+
+
 
 /* ===== paginas en menu ===== */
 .page-link {
