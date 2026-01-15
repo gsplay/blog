@@ -19,4 +19,4 @@ Depues de un tiempo sin vender y sin emprender decidí armar un proyecto de vent
 
 A partir de ahi comencé a trabajar con eso. Me di cuenta que muchas cuestiones empaticas se fueron apagando pero es posible volver a encender. ¿Cómo? trabajando dia a dia sobre eso. Cultivando la paciencia, la escucha activa, comprendiendo que todos tenemos dias buenos y malos. Y lo mas importante. Al bajar la guardia, baja el cortisol y la vida siempre es mas linda.
 
-Veremos con el tiempo como mejora mi situación con las personas y el día a día conectando.
+Veremos.
