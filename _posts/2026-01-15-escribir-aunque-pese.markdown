@@ -4,7 +4,7 @@ title:  "Escribir aunque pese"
 date:   2026-01-15 03:10:00 -0300
 categories: blog
 ---
-Ok. Ejercicio de escritura para ver como viene reaccionando la cabeza/mente/neuronas al estimulo de escribir todos los dias. Como ya sabrás abri un nuevo blog para la cosa liviana y me encanta. Siento que tiene miles de colores mas que cualquier otro blog que haya tenido. Todo parece indicar que es un blog el cual me podria sentar a leer.
+Como ya sabrás abri un nuevo blog para la cosa liviana y me encanta. Siento que tiene miles de colores mas que cualquier otro blog que haya tenido. Todo parece indicar que es un blog el cual me podria sentar a leer.
 
 A priori mi mente viene bastante al dia escribiendo. Se sabe que escribir tiene poderes significativos en nuestra salud. Y aunque podria invocar algun estudio de alguna prestigiosa universidad, simplemente voy a decir que escribir te libera. Escribir es pensar. Pensar es vivir.
 
