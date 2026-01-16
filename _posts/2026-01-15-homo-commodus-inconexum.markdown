@@ -11,7 +11,7 @@ Tambien a muy corta edad vendí huevos de corodniz, productos de limpieza, promo
 
 Puedo decir que he estado en atención al cliente desde que tengo uso de mis facultades sociales pero eso cambió desde que a los 30 años empece a cobrar peaje en una cabina del conurbano. Yo venia de trabajar con telefonia vendiendo tanto a consumidor final como a clientes corporativos. Los reclamos se resolvian en cuestion de horas muchas veces, cultivaba la paciencia todos los dias, me entrenaba mentalmente para no caer en la locura y filtraba la información que me daba el cliente ignorando lo agresivo.
 
-El peaje cambia el juego. Los reclamos se resumian a 10 segundos y contaba con la posibilidad de cerrar la ventanilla o llamar a la policia en caso de que la situacion se ponga dificil. Me sentia seguro, con herramientas que evadian el uso de herramientas para tratar con gente y de esa forma se fue perdiendo lo que hasta ese momento fue el mayor valor agregado de mi personalidad. La conexión.
+El peaje cambia el juego. Los reclamos se resumian a 10 segundos y contaba con la posibilidad de cerrar la ventanilla o llamar a la policia en caso de que la situacion se ponga dificil. Me sentia seguro, con herramientas que evadian el conflicto al tratar con gente y de esa forma se fue perdiendo lo que hasta ese momento fue el mayor valor agregado de mi personalidad. La conexión.
 
 Anteriormente dije que este trabajo me hizo dar cuenta que existe mas gente buena que mala. Bueno, si. Tambien voy a agregar que la gente "no buena" tiene un alto nivel de agresión a flor de piel ante el primer indicio de problemas. 
 
