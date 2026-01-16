@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "El post que nunca escribí"
