@@ -95,7 +95,7 @@ p {
 /* ===== Footer ===== */
 .site-footer {
   margin-top: 6rem;
-  padding: 3rem 0 2.5rem;
+  padding: 2rem;
   font-size: 0.85rem;
   color: rgba(0, 0, 0, 0.5);
   border-top: 1px solid rgba(87, 87, 87, 0.3215686275);
@@ -132,15 +132,17 @@ p {
 
 .footer-signature {
   margin: 0;
-  font-size: 1.2rem;
-  color: rgba(0, 0, 0, 0.35);
+  font-size: 1.1rem;
+  color: rgba(0, 0, 0, 0.78);
 }
 
 
-
 /* ===== paginas en menu ===== */
-.page-link {
+.site-nav .page-link {
 	font-size: 15px;
+	font-family: "Inter", system-ui, sans-serif;
+	font-weight: 600;
+	color: #777;
 }
 
 
