@@ -173,3 +173,23 @@ p {
   height: 100%;
 }
 
+/* ===== Archivo ===== */
+
+#archivo {
+  font-family: monospace;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+#archivo p {
+  margin: 0.1rem 0;
+}
+
+#archivo a {
+  text-decoration: none;
+}
+
+#archivo a:hover {
+  text-decoration: underline;
+}
+
