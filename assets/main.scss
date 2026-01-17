@@ -16,6 +16,8 @@ body {
 .post-meta {
   font-size: 0.85rem;
   color: #222;
+  font-style: italic;
+  margin-bottom: 0.5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -48,6 +50,7 @@ p {
   border: none;
   font-size: 0.95rem;
   color: #555;
+  font-weight: 600;
 }
 
 .read-more::before {
