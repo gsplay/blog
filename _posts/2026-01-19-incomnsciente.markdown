@@ -16,4 +16,4 @@ Dentro de todo lo que escuché percibí que las incomodidades se dan desde difer
 
 Mas allá del resultado en cuanto a lo musical, encontrar música nueva y fuera de lo común siempre se agradece. Cada disco que fui escuchando fue un limite traspasado. Fue esa incursión que no sabes donde te va a llevar, que genera confusión pero a la vez sabes que estas en un lugar seguro. 
 
-Donde nace la necesidad de experimentar, violar limites y encontrarse con la incomodidad, mirarla a la cara y seguir como si nada?
+Allí donde nace la necesidad de experimentar, violar limites y encontrarse con la incomodidad, mirarla a la cara y seguir como si nada, florecen nuevas formas y pensamientos que abren nuevos caminos y eligen donde dejarnos en la proxima parada.
