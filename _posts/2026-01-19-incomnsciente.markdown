@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Incomnsciente"
-date:   2026-01-19 17:10:00 -0300
+date:   2026-01-19 16:10:00 -0300
 categories: blog
 ---
 Me propuse escribir un poco de escritura. Comunicar algo de comunicación. Difundir una difunta.
