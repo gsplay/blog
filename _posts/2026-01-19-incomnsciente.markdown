@@ -4,8 +4,6 @@ title:  "Incomnsciente"
 date:   2026-01-19 16:10:00 -0300
 categories: blog
 ---
-Me propuse escribir un poco de escritura. Comunicar algo de comunicación. Difundir una difunta.
-
 Amo las frases que no cierran, al contrario, amo que generen confusión y algo de caos, incomodidad o vergüenza ajena. Y este tema es imposible no vincularlo con la música. En realidad con el arte, pero con la música tengo algo para decir mientras que con el arte no. Así que :)
 
 Aprovechando las ventajas y comodidades de los tiempos que corren y sus avances tecnológicos, en una incursión hacia lugares profundos de mi psiquis, le dije a la IA que me recomiende música rara, compleja, difícil de escuchar, que parezca rota, que sea incomoda. 
