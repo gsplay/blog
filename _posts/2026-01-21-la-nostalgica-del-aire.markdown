@@ -6,7 +6,7 @@ categories: blog
 ---
 La primera vez que vi a Divididos en vivo fue en el Club Universitario de Bahia Blanca en donde presentaban el disco Gol de mujer, un álbum bisagra dentro de la discografía de la banda en donde hay abundancia de rock, homenaje, folclore y mucha historia, que se cierra después de una primer etapa de la banda con todos sus matices y colores.
 
-Vientito del Tucumán es un himno a la atmósfera introspectiva provinciana en donde conviven el sentimiento en complicidad con la tierra. Una samba que se mueve dentro de un clima denso acompañado por un bombo leguero y un bajo eléctrico saturado.
+Vientito del Tucumán es un himno a la atmósfera introspectiva provinciana en donde conviven el sentimiento en complicidad con la tierra. Una samba que se mueve dentro de un clima denso acompañado por un bombo legüero y un bajo eléctrico saturado.
 
 Viví mi adolescencia desarrollándome en una ciudad pequeña, un pueblo con aires de grandeza, lo que comúnmente y con cariño llamamos chacra asfaltada. Sin ofender, pero en toda localidad del interior de cualquier provincia, los mismos habitantes combaten día a día con la sensación de pequeñez o con aires de grandeza.
 
