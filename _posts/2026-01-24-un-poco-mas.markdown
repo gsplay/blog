@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mas o terapia"
+title:  "Un poco más"
 date:   2026-01-24 17:40:30 -0300
 categories: blog
 ---
