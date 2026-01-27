@@ -4,7 +4,7 @@ title:  "Carta al lector"
 date:   2026-01-23 23:05:00 -0300
 categories: blog
 ---
-El texto en realidad se llama “Carta al lector del domingo por la mañana” pero por cuestiones de ceo(?) no pude aplicar. 
+El texto en realidad se llama “Carta al lector del domingo por la mañana” pero por cuestiones de seo(?) no pude aplicar. 
 
 Estimado lector que decidiste justo hoy y por tu salud mental levantarte más temprano y desayunar leyendo algunos newletters o artículos de blogs o revistas. Quiero que sepas que este texto es para vos.
 
