@@ -230,3 +230,39 @@ p {
 #archivo a:hover {
   text-decoration: underline;
 }
+
+/* =========================
+   Navegación entre posts
+   ========================= */
+
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 4rem;
+  padding-top: 2rem;
+  font-size: 1rem;        /* más legible */
+  font-weight: 500;      /* un poco más firme */
+  opacity: 0.8;
+}
+
+.post-nav a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.post-nav a:hover {
+  opacity: 1;
+}
+
+/* Separador muy sutil */
+.post-nav {
+  border-top: 1px solid rgba(0, 0, 0, 0.08);
+}
+
+/* Mobile */
+@media (max-width: 600px) {
+  .post-nav {
+    font-size: 0.95rem;
+  }
+}
