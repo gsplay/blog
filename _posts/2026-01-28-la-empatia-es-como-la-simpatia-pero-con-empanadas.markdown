@@ -9,7 +9,8 @@ Me duelen las piernas. ¡Ay madre me duelen las piernas! Ese es un pensamiento r
 
 Una de las cosas que más rescato de mi entrenador es que siempre sonríe y te da un mate mientras te ve fallecer lentamente. Y como por arte de magia se me viene una frase que escribí en algún momento en el viejo twitter que decía:
 
-> La empatía es como la simpatía pero con empanadas
+> La empatía es como la simpatía pero con empanadas  
+
 
 Un mate en el momento justo levanta la moral, el amor propio y acaricia el alma. Este fenómeno rioplatense que se expandió por el mundo, incluso desde su lado mas intimo argentinizando momentos y generando vínculos sin banderas ni limites geográficos, es una clara muestra de como se acompaña mejor con algo para compartir.
 
