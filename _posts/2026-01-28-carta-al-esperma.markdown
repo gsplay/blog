@@ -5,7 +5,7 @@ date:   2026-01-28 13:50:00 -0300
 categories: blog
 ---
 
-Hola. Probablemente también te hubieses llamado Gabriel porque tocaba rendir tributo al abuelo paterno y aparte porque la libido de esas fechas, donde te anotaron en el registro civil, estaba enfocada en el mundial 78 que había terminado hace poco menos de un mes.  
+Hola. Probablemente también te hubieses llamado Gabriel porque tocaba rendir tributo al abuelo paterno y aparte porque no habia ideas ya que la libido de esas fechas, cuando te anotaron en el registro civil, estaba enfocada en el mundial 78 que había terminado hace poco menos de un mes.  
 
 Intentaré explicarte todo lo mas simple posible: En la carrera que te gané el premio fue ser el envase de un alma que encerrada en una mente, para hacerse entender activa sectores del cuerpo a través del sistema nervioso central para decirte que estas seguro o en peligro, en esta ultima opción hay un bug que todavía no se arregló. 
 
