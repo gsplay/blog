@@ -22,20 +22,19 @@ layout: default
     {{ content }}
   </div>
 
- <nav class="post-nav">
-  {% if page.next %}
-    <a class="post-prev" href="{{ page.next.url | relative_url }}">
-      ← Anterior
-    </a>
-  {% endif %}
+  <nav class="post-nav">
+    {% if page.previous %}
+      <a class="post-prev" href="{{ page.previous.url | relative_url }}">
+        ← Antes
+      </a>
+    {% endif %}
 
-  {% if page.previous %}
-    <a class="post-next" href="{{ page.previous.url | relative_url }}">
-      Siguiente →
-    </a>
-  {% endif %}
-</nav>
-
+    {% if page.next %}
+      <a class="post-next" href="{{ page.next.url | relative_url }}">
+        Después →
+      </a>
+    {% endif %}
+  </nav>
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
