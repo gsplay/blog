@@ -247,8 +247,11 @@ p {
 }
 
 .post-nav a {
-  text-decoration: none;
-  color: inherit;
+	font-family: "Inter", system-ui, sans-serif;
+	font-weight: 600;
+	color: #1a1a1a;
+ 	text-decoration: none;
+ 	color: inherit;
 }
 
 .post-nav a:hover {
