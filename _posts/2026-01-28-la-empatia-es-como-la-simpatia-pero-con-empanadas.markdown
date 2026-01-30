@@ -11,6 +11,7 @@ Una de las cosas que más rescato de mi entrenador es que siempre sonríe y te d
 
 > La empatía es como la simpatía pero con empanadas		
 
+  
 
 Un mate en el momento justo levanta la moral, el amor propio y acaricia el alma. Este fenómeno rioplatense que se expandió por el mundo, incluso desde su lado mas intimo argentinizando momentos y generando vínculos sin banderas ni limites geográficos, es una clara muestra de como se acompaña mejor con algo para compartir.
 
