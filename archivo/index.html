@@ -4,17 +4,21 @@ title: Archivo
 ---
 
 <div id="archivo">
-{% assign posts_by_year = site.posts | group_by_exp:"post","post.date | date: '%Y'" %}
+  {% assign posts_by_year = site.posts | group_by_exp:"post","post.date | date: '%Y'" %}
 
-{% for year in posts_by_year %}
-<p>{{ year.name }}</p>
+  {% for year in posts_by_year %}
+    <p class="archivo-year">{{ year.name }}</p>
 
-  {% for post in year.items %}
-  <p>
-    {{ post.date | date: "%m.%d" }}
-    <a href="{{ post.url }}">{{ post.title | downcase }}</a>
-  </p>
+    {% for post in year.items %}
+      <p class="archivo-item">
+        <span class="archivo-fecha">
+          {{ post.date | date: "%m / %d" }}
+        </span>
+        <a class="archivo-titulo" href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+      </p>
+    {% endfor %}
+
   {% endfor %}
-
-{% endfor %}
 </div>
