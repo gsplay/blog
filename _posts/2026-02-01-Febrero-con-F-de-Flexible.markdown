@@ -5,7 +5,11 @@ date:   2026-02-01 22:50:00 -0300
 categories: blog
 ---
 
-Hace mucho que no leo un libro y lo digo con total y absoluta vergüenza. Me gusta leer pero creo que el hecho de sentarse a leer exige otro tipo de compromiso, no el mismo que escuchar música (si, ir a un recital), no es lo mismo que sentarse a mirar una película en la cual podes darte licencias arbitrariamente según la escena o el momento de la película, es por lejos, de los actos, menos conscientes de todos.  
+Primer día de febrero. Son casi las 22:00hs y estoy entre las sillas de jardín, sentado en el patio, escribiendo desde el teléfono en una bellísima noche de verano. La sensación del clima es asombrosamente cómoda y agradable. Estoy siendo picado por una variedad enorme de mosquitos y bichos diminutos. No tengo Off!. Sigo.  
+
+No, no sigo nada. Justo después de escribir esas lineas los mismos mosquitos, en un esfuerzo en conjunto con otros bichos de tamaños diminutos, hicieron que tenga que entrar y sentarme con la laptop en la mesa del comedor y las primeras palabras que salen son estas: *"Hace mucho que no leo un libro y lo digo con total y absoluta vergüenza".*
+
+Y si. Hace mucho que no leo un libro y lo digo con total y absoluta vergüenza. Me gusta leer pero creo que el hecho de sentarse a leer exige otro tipo de compromiso, no el mismo que escuchar música (si, ir a un recital), no es lo mismo que sentarse a mirar una película en la cual podes darte licencias arbitrariamente según la escena o el momento de la película, es por lejos, de los actos, menos conscientes de todos.  
 
 Leer tiene un peso enorme sobre el cuerpo y sobre la mente. No se puede leer por arriba o por lo menos yo. Siento que las ideas se me escapan más rápido de la cabeza y son mas difíciles de retener. Incluso, me cuesta mucho trabajo tener un libro en la mesa de luz porque siempre termino leyendo las ultimas 5 paginas para ponerme a tono con la historia. Es así que para leer debo planear la semana, tener tiempos libres en mismos horarios y mucho tiempo para procesar más lento.  
 
