@@ -5,7 +5,7 @@ date:   2026-02-07 06:15:00 -0300
 categories: blog
 ---
 
-Estos días son de sensaciones encontradas y muy diversas por cierto. A veces me preocupo por que mi vida tenga coherencia entre lo que pienso y lo que hago, pero esto llamado vida se caga bastante de risa cuando ve que lo quiero.
+Estos días son de sensaciones encontradas y muy diversas por cierto. A veces me preocupo por que mi vida tenga coherencia entre lo que pienso y lo que hago, pero esto llamado vida se caga bastante de risa cuando ve que lo quiero. 
 
 Fui promovido de sector en mi trabajo a comienzos de la semana. No es algo que me encante pero esos dos días que trabajé resultaron interesantes. Nuevas tareas, nuevas responsabilidades, nuevos hábitos, compañeros, entorno... parece mucho y lo es. Estuve con la ansiedad atada al cuello en mas que un puñado de momentos en la semana. Fue literalmente cambiar de trabajo pero manteniendo con antigüedad y mañas intactas. Lo malo? Estoy mucho tiempo sentado y no estoy acostumbrado a eso, ni me quiero acostumbrar. Antes, caminar para mi era un placer que disfrutaba un par de veces por semana, pero mi antigua actividad laboral me daba la chance de trabajar parado. Hoy me encuentro en la obligación de imponerme salir a caminar a diario para llegar a un promedio de pasos acorde a mí.
 
