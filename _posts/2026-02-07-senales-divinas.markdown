@@ -14,5 +14,5 @@ Este año es el primer año que voy a ir a la nutricionista. Es necesario tanto 
 
 Dentro de esos 20 había 3 que atendían donde me atiendo. Bingo!. Me pongo a leer los nombres, como pensando que una señal va a hacerme elegir al correcto. El o la mesías que será responsable de moldear mis hábitos y modo de consumir las cosas que ocupan el primer puesto en el ranking de placeres de la vida. 
 
-No hay mucho para elegir pero la que reúne todas las condiciones se llama **María Iglesias**. Sin lugar a dudas es la que más se aproxima más al milagro. 
+No hay mucho para elegir pero la que reúne todas las condiciones se llama **María Iglesias**. Ni hablar que es la que más se aproxima al milagro. 
 
