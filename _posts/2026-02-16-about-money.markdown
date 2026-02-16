@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  ""
+title:  "About Money"
 date:   2026-02-16 03:45:00 -0300
 categories: blog
 ---
