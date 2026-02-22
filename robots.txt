@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gabos.netlify.app/sitemap.xml
+Sitemap: https://gabos.pages.dev/sitemap.xml
