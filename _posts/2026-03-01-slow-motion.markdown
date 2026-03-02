@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Slow Motion"
-date:   2026-03-01 07:25:00 -0300
+date:   2026-03-02 07:25:00 -0300
 categories: blog
 ---
 
