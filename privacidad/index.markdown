@@ -17,7 +17,6 @@ Bueno, internet funciona más o menos así.
  
 ***No usa cookies, no crea perfiles y no intenta saber quién sos***
 
-***Se cuentan visitas de forma anónima, nada más***
 
 Leer debería ser un acto de libertad, un símbolo de privacidad.
 
