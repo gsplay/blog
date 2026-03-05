@@ -21,6 +21,6 @@ Lo veo pasar delante mio mientras saco los polos del zapallito. Era de color mar
 
 Mi mano izquierda sostiene el asa del wok, en la mano derecha un repasador blanco con florcitas de colores. Al girar todo mi cuerpo 180 grados quedo frente al gorgojo que de un solo movimiento golpea mi frente y sale volando por la misma puerta por la que entró.
 
-En una realidad mas coherente ese gorgojo estaría siendo comido dentro de un *chow fan* en un puesto de **Tokio**, y no pegándole un cabezazo a un tipo del *oeste de Buenos Aires* que cocina todo como si fuera una *salsa boloñesa*.
+En una realidad mas coherente ese gorgojo estaría siendo comido dentro de un *chow fan* en un puesto de **Tokio**, y no pegándole un cabezazo a un tipo común del *oeste de Buenos Aires* que cocina todo como si fuera una *salsa boloñesa*.
 
 Era el turno de echar los huevos.
