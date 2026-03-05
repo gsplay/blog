@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gabos.pages.dev/sitemap.xml
+Sitemap: https://gaboscribe.com/sitemap.xml
