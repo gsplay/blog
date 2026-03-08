@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "El espacio del resto"
-date:   2026-03-08 17:00:00 -0300
+title: "El espacio del resto"
+date: 2026-03-08 17:00:00 -0300
 categories: blog
 ---
 
