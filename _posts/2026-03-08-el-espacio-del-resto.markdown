@@ -4,6 +4,7 @@ title:  "El espacio del resto"
 date:   2026-03-08 17:00:00 -0300
 categories: blog
 ---
+
 Nadie duda de los beneficios cognitivos y neuronales que traen consigo los seres de otras especies que viven con nosotros, entre nosotros, domesticados, de casa, a los que también llamamos mascotas. Hay una controversia bastante clara en mi cabeza respecto al tema. Está bueno que los tiempos modernos hayan resaltado el respeto a las otras especies y me cuesta, a modo personal, encontrar un punto en donde no me atreva a matar a ningún insecto y sea absolutamente necesario hacerlo. Por ejemplo, me cuesta matar hormigas, saltamontes, escarabajos, polillas y algunas especies visibles. Lo que si me parece de vida o muerte es ver a un moscardón en la comida depositando sus vómitos mientras frota sus manos cual villano de antaño, o una cucaracha, o una laucha. 
 
 Somos clasistas de bichos? decidimos el fin o la continuación de sus vidas según nos convenga o emocione su estética o alguna historia animada. Muy pocos adoptan un sapo de mascota y los cuidan en sus casas. Me parece una injusticia enorme y no parece que pueda hacer algo por eso.
