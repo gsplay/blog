@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Momento bucleano"
-date:   2026-03-11 03:10:00 -0300
+date:   2026-03-12 03:10:00 -0300
 categories: blog
 ---
 Mientras escribo estas líneas suena en mis auriculares la canción “*É preciso dar un jeito, meu amigo.*” De Erasmo Carlos. El mate en mi escritorio y la noche de un miércoles en la que reina la incertidumbre, si, lo sé, eso es un estado mental y ando incierto, pero no viene al caso. 
