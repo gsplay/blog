@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "El pie efficient no es feliz"
-date:   2026-03-12 03:10:00 -0300
+date:   2026-03-12 14:30:00 -0300
 categories: blog
 ---
 Hace un tiempo se quedó a cenar el que hasta ese entonces era el novio de mi hija. Un sujeto que me caía bastante bien porque me recordaba a un Gabriel adolescente que no paraba de hablar, al que su padre le dijo en ese momento de la vida “*deberías hablar menos*”. No me explicó el “para”, *para escuchar más por ejemplo*. Igual no se lo diría. 
