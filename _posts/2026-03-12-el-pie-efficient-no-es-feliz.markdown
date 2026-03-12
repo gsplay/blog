@@ -12,4 +12,4 @@ Hoy mientras iba a trabajar, pensaba en eficiencia y en la idea de que si manten
 
 Entonces, tal parece que si el camino no presenta desniveles, ni contratiempos para los que lo surcan, logra la eficiencia a cambio de una tranquilidad llena de aburrimiento. No sé cómo funciona el control de velocidad crucero, pero intuyo que debe ser "*la forma*" que tiene de proveer combustible a un sistema, para mantener de forma permanente el control de la velocidad sin importar los desniveles y contratiempos del camino. Es perfecto, y aún así falla porque no puede lograrlo el 100% del tiempo. 
 
-Hay personas que gastan muchos recursos trabajando a diario para lograr fluir sobre esa eficiencia aburrida a cualquier costo.
+Hay personas que gastan muchos recursos trabajando a diario para lograr fluir sobre esa eficiencia aburrida a cualquier costo, confundiendo vida plena con vida plana.
