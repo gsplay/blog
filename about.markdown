@@ -5,23 +5,16 @@ permalink: /about/
 nav: false
 ---
 
-### Sobre mi
+**Me dicen Gabo** 
 
-Mi nombre es Gabo. Tal vez me recuerden como el autor de varios blogs que fueron quedando en la estratosfera internautica como un simbolo de mensajes para las generaciones venideras. 
+En este viaje que hoy tiene *47 años* aprendí de todo, incluso que soy un gran ignorante.
+No voy a borrar los post feos, por ahí si los lees un par de veces te terminan gustando. 
 
-### Sobre este blog
+Este es casi mi **día a día**. Todo lo que se lee es mi entorno y lo que me rodea. Vivo en el tercer cordón del conurbano y comprendo las cosas así, *sobrepensando*.
 
-#### Este es mi blog personal.
+Más allá de toda explicación, escribo porque **amo** observar y sentarme a escribir. Este proyecto es muy personal y no requiere de opiniones ni de consejos. 
 
-Este blog es un despojo de temas que debo sacarme de mi cabeza. Es un instante de friccion entre mi estado basal y mi conciencia trivial.
-La vida es groove y hay que aprender a entenderlo con lo que te toca.
-
-### Sobre esta pagina
-
-No es solo una pagina sobre mi sino sobre todo. No creo que esta pagina deba ser de lo primero que se escriba. Hay un hilo pero no hay un tema. Es solo un blog personal y esto puede corregirse asi como la vida se va corrigiendo sola. 
-	
-
-
+*Espero que la pases bien.*
 
 
 
