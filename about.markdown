@@ -18,3 +18,4 @@ Más allá de toda explicación, escribo porque **amo** observar y sentarme a es
 
 
 
+*Quieres comunicarte conmigo? =><a href="javascript:void(0)" class="link" title="Enviar email" onclick="window.location.href='mailto:' + 'hola' + '@' + 'gaboscribe.com'">Enviarme un Email </a>*
