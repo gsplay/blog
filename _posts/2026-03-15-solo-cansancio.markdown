@@ -13,4 +13,4 @@ Tengo para descansar viernes, sábado y domingo, y como siempre los días de may
 
 Los días vienen feos, mutamos del calor húmedo del 15 de febrero en adelante, a los hermosos 15 primeros días de Marzo, calurosos de día pero frescos de noche, a una especie de transformación que nos llevara inminentemente a las lluvias de los primeros días de Abril. 
 
-Probablemente en otra vida fui algún brujo de alguna tribu, que predecía el cambio climático con su clavícula quebrada y se quedaba en la casa el sábado por la noche fumando y mirando el fuego. 
+Probablemente en otra vida fui algún brujo de alguna tribu, que predecía el cambio climático con su rodilla y se quedaba en la casa el sábado por la noche fumando y mirando el fuego. 
