@@ -20,7 +20,9 @@
 locale: es
 lang: es-AR
 title: Gabo Scribe
-#email: your-email@example.com
+author:
+  name: Gabo
+email: hola@gaboscribe.com
 description: >- # this means to ignore newlines until "baseurl:"
   Una bitácora sobre vida & cosas.
 baseurl: "" # the subpath of your site, e.g. /blog
