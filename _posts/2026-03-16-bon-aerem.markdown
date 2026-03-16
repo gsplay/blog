@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bon Aerem"
-date:   2026-03-16 00:00:00 -0300
+date:   2026-03-16 00:07:00 -0300
 categories: blog
 ---
 Reconozco ciertos vientos. No creo que el viento muera, creo que el viento sigue, va y a veces vuelve. Que el suspiro después del “Buen día” sigue viajando por el globo, que el resoplido agotado del tío que llega a casa después de 12 horas de esfuerzo se mezcle con la hiperventilación de alguien.
